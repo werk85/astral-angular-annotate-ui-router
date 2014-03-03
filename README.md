@@ -1,4 +1,13 @@
 astral-angular-annotate-ui-router
 =================================
 
-ui-router ngmin annotation module.
+Annotation module for `ngmin` to support the `ui-router` library.
+
+## Installation
+
+```
+npm install astral-angular-annotate-ui-router --save-dev
+```
+
+## License
+MIT
